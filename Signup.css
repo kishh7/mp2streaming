@@ -1,0 +1,52 @@
+.formSignup {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+  }
+.container-Signup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to left, rgb(225, 113, 225), rgb(248, 136, 136), rgb(81, 104, 238));
+}
+.form-container {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 400px;
+    width: 90%;
+    align-items: center;
+  }
+  .h2reg{
+    margin-bottom: 20px;
+  }
+  .Sumbitto{
+    padding: 10px 25px;
+    background-color: purple;
+    color: white;
+    font-size: 16px;
+    border-color: blueviolet;
+    cursor: pointer;
+    border: none;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+
+  }
+  .Sumbitto:hover{
+   background-color: pink;
+   color: black;
+   border: 2px solid rgb(225, 113, 225);
+
+  }
+  @media screen and (max-width: 768px) {
+
+    .form-container {
+      padding: 10px;
+      width: 80%;
+    }
+  }
+  
+  

@@ -1,0 +1,49 @@
+
+.navbar {
+  background-color: black;
+}
+
+.logo {
+  color: #892CDC; 
+  font-weight: bolder;
+}
+
+.logo span {
+  color: white;
+  font-weight: bolder;
+}
+
+.navbar-toggler-icon {
+  background-color: black; 
+}
+
+.nav-link {
+  color: white; 
+  font-weight: bold;
+  font-size: medium;
+}
+.nav-link:hover {
+  color: #892CDC;
+  font-weight: bold;
+  font-size: medium;
+}
+
+.d-flex {
+ color: black;
+}
+
+.violet-dropdown {
+  background-color: white; 
+}
+
+.form-control {
+ color: #fff;
+}
+.login, Button{
+  border-color: purple;
+  color: purple;
+}
+
+.btn {
+ color: white;
+}

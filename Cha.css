@@ -1,0 +1,12 @@
+.gradient-custom-2 {
+    background-color: #fcfdfd;
+    font-family: Arial, sans-serif; 
+  }
+  .editProfileButton {
+    color: #fff;
+    background-color: #000;
+    font-family: Arial, sans-serif; 
+  }
+
+  @media (max-width: 768px) {
+  }
